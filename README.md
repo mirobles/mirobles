@@ -1,7 +1,7 @@
 ## Michael Robles
 
 ## Companies
-Owner and Founder of [VIPERsurf ](https://www.vipersurf.com/) 
+Owner and Founder of [VIPERsurf ](https://www.vipersurf.com/)  
 Lead DevOps Engineer at [Bilt Rewards](https://www.biltrewards.com/)
 
 ## About Me
